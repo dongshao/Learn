@@ -6,3 +6,5 @@ Test3
 测试是否会和branch产生冲突
 测试branch
 修改文件
+
+测试命令行
